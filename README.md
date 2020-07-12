@@ -4,6 +4,7 @@
 * [What’s the Difference Between Artificial Intelligence, Machine Learning and Deep Learning?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) (Michael Copeland, Jul. 2016)
 * Traditional Programming takes Rule + Data to output Answers, but Machine Learning learns Rules from Answers + Data. _[read more](https://www.logianalytics.com/predictive-analytics/machine-learning-vs-traditional-programming)_
 * [The Beginner’s Guide to Text Vectorization](https://monkeylearn.com/blog/beginners-guide-text-vectorization/) (Rodrigo Stecanella, Sep. 2017)
+* Model=Algorithm(Data)
 
 ## Model Training
 ## Supervised and Unsupervided Learning
