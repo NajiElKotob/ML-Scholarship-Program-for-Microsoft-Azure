@@ -13,6 +13,6 @@
 -----
 
 ## Terms and Definition
-* **Machine learning** is a data science technique used to extract patterns from data, allowing computers to identify related data, and forecast future outcomes, behaviors, and trends.
-* [Pipelines](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines#what-are-azure-ml-pipelines) An Azure ML pipeline performs a complete logical workflow with an ordered sequence of steps. Each step is a discrete processing action. 
+* **Machine learning** is a data science technique used to extract patterns from data, allowing computers to identify related data, and forecast future outcomes, behaviors, and trends. (Udacity)
+* [Pipelines](https://docs.microsoft.com/azure/machine-learning/concept-ml-pipelines#what-are-azure-ml-pipelines) An Azure ML pipeline performs a complete logical workflow with an ordered sequence of steps. Each step is a discrete processing action. (Microsoft Azure)
 
