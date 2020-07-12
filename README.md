@@ -16,7 +16,7 @@
 ## Terms and Definition
 * **Machine learning** is a data science technique used to extract patterns from data, allowing computers to identify related data, and forecast future outcomes, behaviors, and trends. (Udacity)
 * [Pipelines](https://docs.microsoft.com/azure/machine-learning/concept-ml-pipelines#what-are-azure-ml-pipelines) An Azure ML pipeline performs a complete logical workflow with an ordered sequence of steps. Each step is a discrete processing action. (Microsoft Azure)
-
+* In the context of machine learning, [data drift](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-monitor-data-drift#what-is-data-drift)  is the change in model input data that leads to model performance degradation. It is one of the top reasons where model accuracy degrades over time, thus monitoring data drift helps detect model performance issues.
 -----
 ## Quotes
 * "A breakthrough in machine learning would be worth ten Microsofts." Bill Gates
