@@ -1,7 +1,7 @@
 # Udacity - Machine Learning Scholarship Program for Microsoft Azure
 
 ## Introduction to Machine Learning on Azure
-* Traditional Programming takes Rule + Data to output Answers, but Machine Learning learns Rules from Answers + Data.
+* Traditional Programming takes Rule + Data to output Answers, but Machine Learning learns Rules from Answers + Data. _[read more](https://www.logianalytics.com/predictive-analytics/machine-learning-vs-traditional-programming)_
 
 
 ## Model Training
