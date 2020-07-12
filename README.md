@@ -2,7 +2,7 @@
 
 ## Introduction to Machine Learning on Azure
 * Traditional Programming takes Rule + Data to output Answers, but Machine Learning learns Rules from Answers + Data. _[read more](https://www.logianalytics.com/predictive-analytics/machine-learning-vs-traditional-programming)_
-
+* [The Beginner’s Guide to Text Vectorization](https://monkeylearn.com/blog/beginners-guide-text-vectorization/) (Rodrigo Stecanella, Sep. 2017)
 
 ## Model Training
 ## Supervised and Unsupervided Learning
