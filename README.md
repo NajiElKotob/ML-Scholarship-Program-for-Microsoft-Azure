@@ -15,6 +15,7 @@
 
 ## Resources
 * [Introducing Azure Machine Learning](https://github.com/NajiElKotob/ML-Scholarship-Program-for-Microsoft-Azure/blob/master/Resources/introducing_azure_machine_learning.pdf) (David Chappell, 2015)
+* [Azure AI Gallery](https://gallery.azure.ai/browse)
 
 
 -----
