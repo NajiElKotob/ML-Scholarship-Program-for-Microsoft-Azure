@@ -5,6 +5,7 @@
 * Traditional Programming takes Rule + Data to output Answers, but Machine Learning learns Rules from Answers + Data. _[read more](https://www.logianalytics.com/predictive-analytics/machine-learning-vs-traditional-programming)_
 * [The Beginner’s Guide to Text Vectorization](https://monkeylearn.com/blog/beginners-guide-text-vectorization/) (Rodrigo Stecanella, Sep. 2017)
 * Model=Algorithm(Data)
+* [Underfitting vs. Overfitting](https://docs.aws.amazon.com/machine-learning/latest/dg/model-fit-underfitting-vs-overfitting.html) - Understanding model fit is important for understanding the root cause for poor model accuracy. We can determine whether a predictive model is underfitting or overfitting the training data by looking at the prediction error on the training data and the evaluation data.
 
 
 
