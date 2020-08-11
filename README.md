@@ -4,7 +4,6 @@
 * [What’s the Difference Between Artificial Intelligence, Machine Learning and Deep Learning?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) (Michael Copeland, Jul. 2016)
 * Traditional Programming takes Rule + Data to output Answers, but Machine Learning learns Rules from Answers + Data. _[read more](https://www.logianalytics.com/predictive-analytics/machine-learning-vs-traditional-programming)_
 * [The Beginner’s Guide to Text Vectorization](https://monkeylearn.com/blog/beginners-guide-text-vectorization/) (Rodrigo Stecanella, Sep. 2017)
-* Model=Algorithm(Data)
 * [Underfitting vs. Overfitting](https://docs.aws.amazon.com/machine-learning/latest/dg/model-fit-underfitting-vs-overfitting.html) - Understanding model fit is important for understanding the root cause for poor model accuracy. We can determine whether a predictive model is underfitting or overfitting the training data by looking at the prediction error on the training data and the evaluation data.
 
 
@@ -26,6 +25,8 @@
 * Deep learning algorithms are based on neural networks.
 * Classical ML algorithms are based on classical mathematical algorithms, such as linear regression, logistic regression, decision tree, SVM, etc.
 * There are three main approaches to machine learning; Supervised learning, Unsupervised learning and Reinforcement learning.
+* Model = Algorithm(Data)
+
 
 -----
 
