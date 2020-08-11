@@ -25,6 +25,7 @@
 * All deep learning algorithms are machine learning algorithms but not all machine learning algorithms are deep learning algorithms.
 * Deep learning algorithms are based on neural networks.
 * Classical ML algorithms are based on classical mathematical algorithms, such as linear regression, logistic regression, decision tree, SVM, etc.
+* There are three main approaches to machine learning; Supervised learning, Unsupervised learning and Reinforcement learning.
 
 -----
 
