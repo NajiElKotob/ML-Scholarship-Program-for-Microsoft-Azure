@@ -6,6 +6,7 @@
 * [The Beginner’s Guide to Text Vectorization](https://monkeylearn.com/blog/beginners-guide-text-vectorization/) (Rodrigo Stecanella, Sep. 2017)
 * [Underfitting vs. Overfitting](https://docs.aws.amazon.com/machine-learning/latest/dg/model-fit-underfitting-vs-overfitting.html) - Understanding model fit is important for understanding the root cause for poor model accuracy. We can determine whether a predictive model is underfitting or overfitting the training data by looking at the prediction error on the training data and the evaluation data.
 * [What’s the Difference Between Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning?](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/) (Isha Salian, August 2018)
+* [Reinforcement Learning Demystified: Markov Decision Processes (Part 1)](https://towardsdatascience.com/data-science-modeling-process-fa6e8e45bf02) (Mohammad Ashraf, April 2018)
 
 
 ## Model Training
