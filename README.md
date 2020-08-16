@@ -28,7 +28,7 @@
 * Model = Algorithm(Data)
 * There are three main approaches to machine learning; Supervised learning, Unsupervised learning and Reinforcement learning.
 * Feature learning aka Representation learning
-
+* Parametric and linear algorithms often have high bias and low variance, whereas non-parametric and non-linear algorithms often have low bias and high variance
 
 -----
 
