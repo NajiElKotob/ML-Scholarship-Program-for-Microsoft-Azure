@@ -10,6 +10,8 @@
 * [Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 
 ## Model Training
+* [Introduction to the core Azure Storage services](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction)
+
 ## Supervised and Unsupervided Learning
 ## Applications of Machine Learning
 ## Managed Services of Machine Learning
