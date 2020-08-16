@@ -30,6 +30,8 @@
 * Feature learning aka Representation learning
 * Parametric and linear algorithms often have high bias and low variance, whereas non-parametric and non-linear algorithms often have low bias and high variance
 * ML Prediction Error = Bias error + variance + error + irreducible error
+* Datastores offer a layer of abstraction over the supported Azure storage services.
+* Datasets are used to get specific data files in the datastores.
 
 -----
 
